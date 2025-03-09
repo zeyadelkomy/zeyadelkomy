@@ -9,7 +9,7 @@
 ## 🔥 GitHub Stats  
 
 ![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeyadElkomy&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadElkomy&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/English?username=ZeyadElkomy&layout=compact&theme=radical)  
 
 ---
 
